@@ -1,0 +1,9 @@
+numpy 
+pandas
+matplotlib
+streamlit
+dputils
+pillow
+nbformat
+opencv-contrib-python
+seaborn
